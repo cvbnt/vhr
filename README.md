@@ -7,6 +7,6 @@ MySQL
 Redis 
 RabbitMQ  
 功能：人机验证登录，多表查询，搜索功能，添加功能，跳页  
-找不到主页处理办法：删除.idea重新构建项目  
+BUG：找不到主类处理办法：删除.idea重新构建项目  
 ![screenshot](https://github.com/cvbnt/vhr/raw/main/image/2.png)
 ![screenshot](https://github.com/cvbnt/vhr/raw/main/image/1.png)
