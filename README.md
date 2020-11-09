@@ -3,8 +3,6 @@
 依赖：Spring Boot 
 Spring Security 
 MyBatis 
-MySQL 
-Redis 
 RabbitMQ  
 功能：人机验证登录，多表查询，搜索功能，添加功能，跳页  
 BUG：找不到主类处理办法：删除.idea重新构建项目  
